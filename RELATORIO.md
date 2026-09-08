@@ -1,6 +1,9 @@
 # Relatório — Atividade Avaliativa de Estruturas de Dados
 
 **Alunos:** Jorge Luis Soares Dos Santos e Felipe Falcão Campelo | **Curso:** Engenharia de Software — UDF | **Valor:** 1,0 ponto
+ Turma :D2
+ 
+
             
 ## Parte 1 — Pesquisa: Bubble Sort e Quick Sort
 
