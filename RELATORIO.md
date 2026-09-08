@@ -60,7 +60,7 @@
 
 ## Parte 2 — Experimento de Ordenação
 
-Código em [`ordenacao/`](ordenacao/). Os dois algoritmos foram instrumentados para contar comparações e trocas/movimentações, usando a mesma cópia dos dados aleatórios em cada tamanho testado.
+Código em [`bubble_sort.py`](bubble_sort.py), [`quick_sort.py`](quick_sort.py) e [`comparacao.py`](comparacao.py). Os dois algoritmos foram instrumentados para contar comparações e trocas/movimentações, usando a mesma cópia dos dados aleatórios em cada tamanho testado.
 
 **Resultados registrados (dados reais de execução):**
 
@@ -103,7 +103,7 @@ Em qualquer cenário com grandes volumes de dados e onde desempenho é um requis
 
 ## Parte 3 — Investigação de Busca em Matrizes
 
-Código em [`busca_matriz/busca_sequencial.py`](busca_matriz/busca_sequencial.py). Implementa busca sequencial com loops aninhados, percorrendo a matriz linha por linha e coluna por coluna.
+Código em [`busca_sequencial.py`](busca_sequencial.py). Implementa busca sequencial com loops aninhados, percorrendo a matriz linha por linha e coluna por coluna.
 
 **Resultados (número de comparações):**
 
@@ -132,7 +132,7 @@ O(m × n) — complexidade linear em relação ao número total de elementos da 
 
 ## Parte 4 — Hands On 1: Investigação do Array
 
-Código em [`hands_on_1_array/temperaturas.py`](hands_on_1_array/temperaturas.py). Array de 10 temperaturas, processado para calcular média, maior/menor valor (com índices) e quantidade de valores acima da média.
+Código em [`temperaturas.py`](temperaturas.py). Array de 10 temperaturas, processado para calcular média, maior/menor valor (com índices) e quantidade de valores acima da média.
 
 **Resultado da execução:**
 
@@ -154,7 +154,7 @@ Como a constante 4 é desprezada na notação Big-O, a complexidade do algoritmo
 
 ## Parte 5 — Hands On 2: Matriz Aplicada — Monitoramento de Sensores
 
-Código em [`hands_on_2_matriz/sensores.py`](hands_on_2_matriz/sensores.py). Matriz 5 × 24 (5 sensores × 24 medições/hora), usada para calcular médias por sensor, maior temperatura registrada (com sensor e horário), média geral e quantidade de leituras acima de um limite informado.
+Código em [`sensores.py`](sensores.py). Matriz 5 × 24 (5 sensores × 24 medições/hora), usada para calcular médias por sensor, maior temperatura registrada (com sensor e horário), média geral e quantidade de leituras acima de um limite informado.
 
 **Resultado da execução (limite = 28,0 °C):**
 
