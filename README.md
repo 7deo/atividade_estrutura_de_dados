@@ -1,6 +1,6 @@
 # Atividade Avaliativa — Estruturas de Dados
 
-**Aluno:** Jorge | **Curso:** Engenharia de Software — UDF
+**Aluno:** Jorge Luis Soares Dos Santos e Felipe Falcão Campelo | **Curso:** Engenharia de Software — UDF
 
 Arrays, matrizes e algoritmos de ordenação e busca (Bubble Sort, Quick
 Sort e busca sequencial em matriz), com implementação, instrumentação
