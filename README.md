@@ -1,6 +1,6 @@
 # Atividade Avaliativa — Estruturas de Dados
 
-**Aluno:** Jorge Luis Soares Dos Santos e Felipe Falcão Campelo | **Curso:** Engenharia de Software — UDF Turma:D2
+**Aluno:** Jorge Luis Soares Dos Santos e Felipe Falcão Campelo | **Curso:** Engenharia de Software — UDF | Turma:D2
 
 
 Arrays, matrizes e algoritmos de ordenação e busca (Bubble Sort, Quick
